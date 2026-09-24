@@ -1,0 +1,52 @@
+[
+  {
+    "ticker": "AAPL",
+    "train_sessions": 30,
+    "evaluation_sessions": 20,
+    "train_start": "2023-07-21",
+    "train_end": "2023-08-31",
+    "evaluation_start": "2023-09-01",
+    "evaluation_end": "2023-09-29",
+    "median_training_volume": 33722142.5
+  },
+  {
+    "ticker": "MSFT",
+    "train_sessions": 30,
+    "evaluation_sessions": 20,
+    "train_start": "2023-07-21",
+    "train_end": "2023-08-31",
+    "evaluation_start": "2023-09-01",
+    "evaluation_end": "2023-09-29",
+    "median_training_volume": 11003592.0
+  },
+  {
+    "ticker": "AMZN",
+    "train_sessions": 30,
+    "evaluation_sessions": 20,
+    "train_start": "2023-07-21",
+    "train_end": "2023-08-31",
+    "evaluation_start": "2023-09-01",
+    "evaluation_end": "2023-09-29",
+    "median_training_volume": 31329971.5
+  },
+  {
+    "ticker": "META",
+    "train_sessions": 30,
+    "evaluation_sessions": 20,
+    "train_start": "2023-07-21",
+    "train_end": "2023-08-31",
+    "evaluation_start": "2023-09-01",
+    "evaluation_end": "2023-09-29",
+    "median_training_volume": 11219904.0
+  },
+  {
+    "ticker": "TSLA",
+    "train_sessions": 30,
+    "evaluation_sessions": 20,
+    "train_start": "2023-07-21",
+    "train_end": "2023-08-31",
+    "evaluation_start": "2023-09-01",
+    "evaluation_end": "2023-09-29",
+    "median_training_volume": 86246246.0
+  }
+]
